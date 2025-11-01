@@ -1,7 +1,7 @@
 # Vrinda Store — 2022 Annual Sales Report (Summary & Insights)
 
 **Project type:** Exploratory Data Analysis / Dashboard content  
-**Purpose:** Summarise key findings from Vrinda Store's 2022 sales data and recommend actions to grow sales in 2023.
+**Purpose:** Summarise key findings from Vrinda Store's 2022 sales data and recommend actions to grow sales in 2025.
 
 ---
 
