@@ -36,9 +36,7 @@ Vrinda store wants to create an annual sales report for **2022** so that Vrinda 
 - Which channel is contributing to maximum sales?  
 - Highest selling category?, etc.
 
-### Objective
-Vrinda store wants to create an annual sales report for 2022.  
-So that, Vrinda can understand their customers and grow more sales in 2025.
+
 
 ### Sample Insights
 - Women are more likely to buy compared to men (~65%)  
